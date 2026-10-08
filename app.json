@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "English Grammar Guide",
-    "slug": "grammar-app",
+    "slug": "english-grammar-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7c8c7f2e-1a2b-3c4d-5e6f-7a8b9c0d1e2f"
+      }
     }
   }
 }
