@@ -4,10 +4,8 @@
     "slug": "english-grammar-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#1e40af"
     },
@@ -17,19 +15,7 @@
       "bundleIdentifier": "com.learner.grammarapp"
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#1e40af"
-      },
       "package": "com.learner.grammarapp"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "7c8c7f2e-1a2b-3c4d-5e6f-7a8b9c0d1e2f"
-      }
     }
   }
 }
